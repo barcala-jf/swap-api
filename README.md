@@ -1,2 +1,2 @@
-# swap-api
-The backend RESTful API for the SWAP mobile app, built with Node.js, PostgreSQL, and PostGIS.
+# SWAP API
+This repository contains the backend service and business logic for the **SWAP mobile application**. Developed using **Node.js** and backed by a **PostgreSQL database**, it handles user authentication, item management, and the core recommendation algorithm. By leveraging the **PostGIS extension**, the API efficiently processes geospatial queries to match users and items within a specific geographic radius, ensuring fast and relevant local connections.
